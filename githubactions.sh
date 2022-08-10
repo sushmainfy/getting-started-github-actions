@@ -1,1 +1,1 @@
-echo " My name is Durvi baby, I am 1 year old "
+echo " Hi, THis is testing for Github actions automated script testing "
